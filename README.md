@@ -21,3 +21,4 @@
 <a href="https://twitter.com/intent/follow?screen_name=Siddhant_k_code"><img src="https://img.shields.io/badge/Siddhant_k_code-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="24%"></a>
 
 <p>From: <a href="https://github.com/Siddhant-K-code/simple-website-template"> this website.</a></p>
+w2
