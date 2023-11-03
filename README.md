@@ -3,7 +3,7 @@
 > create-react-app for Plain HTML, CSS & JavaScript Projects.
 
 <b><i>Template for Simple Web Projects, Consists of HTML, CSS & JavaScript</i></b>
-
+<p>conflict Greg w1</p>
 ---
 
 ### How to Use
